@@ -1,0 +1,1 @@
+start pythonw "C:\Users\ethan\weatherwallpaper\dynamic_wallpaper.pyw"
