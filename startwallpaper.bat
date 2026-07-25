@@ -1,1 +1,1 @@
-start pythonw "C:\Users\ethan\weatherwallpaper\dynamic_wallpaper.pyw"
+start pythonw "C:\Users\USER\weatherwallpaper\dynamic_wallpaper.pyw"
